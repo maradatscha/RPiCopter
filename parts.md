@@ -16,6 +16,7 @@ All listed prices are without shipping
 | Gyroscope ITG 3200 |[Watterott](http://www.watterott.com/de/Triple-Axis-Digital-Output-Gyroscope-ITG-3200)|1 | 23 Euro
 | Accelerometer ADXL362 | [Watterott](http://www.watterott.com/de/Triple-Axis-Accelerometer-Breakout-ADXL362)| 1 | 14 Euro
 | Magnetometer HMC5843 | [Watterott](http://www.watterott.com/de/Kompass-Sensor-HMC5843)| 1 | 17 Euro
+| Gyro Accelero and Magneto |[exptech](http://www.exp-tech.de/Sensoren/MinIMU-9-v2-Gyro-Accelerometer-and-Compass-L3GD20-and-LSM303DLHC-Carrier.html)|1| 40 Euro
 | Ultrasonic | [Watterott](http://www.watterott.com/de/Parallax-PING-Ultrashall-Entfernungsmesser) | | 28 Euro
 | Ultrasonic | [Watterott](http://www.watterott.com/de/Maxbotix-MaxSonar-UT-Ultrasonic-Transducer-MB1100) | | 5 Euro
 | Infrared | [Watterott](http://www.watterott.com/de/Pololu-Carrier-with-Sharp-GP2Y0D810Z0F-Digital-Distance-Sensor-10cm)| 

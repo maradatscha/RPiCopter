@@ -20,7 +20,8 @@ All listed prices are without shipping
 | Ultrasonic | [Watterott](http://www.watterott.com/de/Parallax-PING-Ultrashall-Entfernungsmesser) | | 28 Euro
 | Ultrasonic | [Watterott](http://www.watterott.com/de/Maxbotix-MaxSonar-UT-Ultrasonic-Transducer-MB1100) | | 5 Euro
 | Infrared | [Watterott](http://www.watterott.com/de/Pololu-Carrier-with-Sharp-GP2Y0D810Z0F-Digital-Distance-Sensor-10cm)| 
-| Servo-Motors | | 2| 12 Euro
+| Servo-Motors | [adafruit](http://www.adafruit.com/products/155)| 2| 12 Euro
+| servo Controller |[adafruit](http://www.adafruit.com/products/155)|1| 15 Euro
 | SD Card | | 1| 20 Euro
 | Power source | |1 
 | Charger | |1

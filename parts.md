@@ -21,10 +21,12 @@ All listed prices are without shipping
 | Infrared | [Watterott](http://www.watterott.com/de/Pololu-Carrier-with-Sharp-GP2Y0D810Z0F-Digital-Distance-Sensor-10cm)| 
 | Servo-Motors | | 2| 12 Euro
 | SD Card | | 1| 20 Euro
+| Solder Iron (+Stuff)| | 1 | 20 Euro
+| Cables | | | 
 | Power source | |1 
 | Charger | |1
 | Frame | | 1
 | Control surfaces| |2
 | Outer Frame/Cage around | |1
 |||
-|**Approximate Total**| | |  330 Euro
+|**Approximate Total**| | |  410 Euro

@@ -9,3 +9,9 @@
 [Adafruit Fritzing Library](https://github.com/adafruit/Fritzing-Library)
 
 [Fritzing](http://fritzing.org/) an app to build circuits
+
+http://solenerotech1.wordpress.com/2013/09/09/tutorialhow-to-control-a-brushless-motor-with-raspberry-pi/
+
+http://marks-space.com/2013/04/29/guide-to-interfacing-a-gyro-and-accelerometer-with-a-raspberry-pi/
+
+http://www.pololu.com/product/1268

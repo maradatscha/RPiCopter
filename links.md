@@ -13,3 +13,5 @@
 [Controlling motors with ESC](http://solenerotech1.wordpress.com/2013/09/09/tutorialhow-to-control-a-brushless-motor-with-raspberry-pi/)
 
 [accessing the sensors with I2C](http://marks-space.com/2013/04/29/guide-to-interfacing-a-gyro-and-accelerometer-with-a-raspberry-pi/)
+
+[accessing the distance using ultrasonic](http://ninedof.wordpress.com/2013/07/16/rpi-hc-sr04-ultrasonic-sensor-mini-project/)
